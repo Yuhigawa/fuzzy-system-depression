@@ -1,0 +1,11 @@
+Precisar do compilador de Nodejs[LTS](preferencialmente): https://nodejs.org/en/download/
+Abrir o projeto no terminal com o caminho correto do arquivo.
+    Ex: 
+        Windows:
+            c:/users/user/desktop/se_mmd/
+        Linux/MAC:
+            /home/se_mmd
+
+Instalar os pacotes necessários via shell-command com npm ou yarn: npm install #ou yarn add package.json
+E por fim rodar o projeto: npm run start
+    
